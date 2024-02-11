@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600&display=swap');
+
+.product_page{
+    display: flex;
+    gap: 100px;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+    padding: 48px 48px;
+}
+
+.product{
+    height: 500px;
+    width: 500px;
+}
+
+.product-list-wrapper{
+    row-gap: 30px;
+}
+
+
+#product-title {
+    font-size: 32px;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 600;
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    gap: 36px;
+}
+
+.property-wrapper {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 8px;
+}
+
+.property-description {
+    font-size: 20px;
+}
+
+.property{
+    font-size: 20px;
+    border: solid;
+    background-color: #eaeaea;
+    padding: 8px 16px;
+}
+
