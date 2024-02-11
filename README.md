@@ -1,2 +1,1 @@
-# PHP_Project
-Floor_Tile Project using PHP and Javascript
+This Project was Created for  for a local floor tiles company to showcase their Products using HTML, CSS, PHP and JavaScript.
